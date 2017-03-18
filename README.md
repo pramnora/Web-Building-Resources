@@ -15,11 +15,13 @@ http://www.sublimetext.com
 
 ### Graphics
 
+- Converters
+-- http://www.hamstersoft.com  (audio/video/-etc.)  
 - Photos  
 -- http://www.pixlr.com  (different pic effects)  
 -- http://www.unsplash.com  (free photos) 
 - Videos  
--- http://www.techsmith.com  
+-- http://www.techsmith.com  (Camtasia/SnagIt)  
 
 ### Planning
 
