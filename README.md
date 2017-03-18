@@ -15,8 +15,8 @@ http://www.sublimetext.com
 
 ### Graphics
 
-http://www.pixlr.com  
-http://www.unsplash.com   
+http://www.pixlr.com  (different pic effects)  
+http://www.unsplash.com  (free photos) 
 
 ### Planning
 
@@ -28,7 +28,7 @@ https://www.google.co.uk/chrome/browser/desktop/index.html
 http://download.cnet.com/s/lynx-browser/  (text only browser)  
 https://www.mozilla.org/en-GB/firefox/new/  
 http://www.opera.com/download  
-https://www.torproject.org/  (for surfing the dark web)
+https://www.torproject.org/  (for surfing the dark web)  
 http://torchbrowser.com/  
 
 
