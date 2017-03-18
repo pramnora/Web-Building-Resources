@@ -15,8 +15,11 @@ http://www.sublimetext.com
 
 ### Graphics
 
+- Photos
 http://www.pixlr.com  (different pic effects)  
 http://www.unsplash.com  (free photos) 
+- Videos
+http://www.techsmith.com  
 
 ### Planning
 
