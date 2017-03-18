@@ -24,4 +24,11 @@ http://www.wireframe.cc
 
 ### Web browser software
 
+https://www.google.co.uk/chrome/browser/desktop/index.html  
+http://download.cnet.com/s/lynx-browser/  (text only browser)  
+https://www.mozilla.org/en-GB/firefox/new/  
+http://www.opera.com/download  
+https://www.torproject.org/  (for surfing the dark web)
+http://torchbrowser.com/  
+
 
