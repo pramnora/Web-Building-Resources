@@ -13,10 +13,15 @@ http://www.atom.io
 http://www.notepad-plus-plus.org  
 http://www.sublimetext.com  
 
+### Fonts
+
+http://www.googlefonts.com  
+http://www.fontawesome.com  
+
 ### Graphics
 
 - Converters  
--- http://www.hamstersoft.com  (audio/video/-etc.)  
+-- http://www.hamstersoft.com  (ebook/video/-etc.)  
 - Photos  
 -- http://www.pixlr.com  (different pic effects)  
 -- http://www.unsplash.com  (free photos) 
