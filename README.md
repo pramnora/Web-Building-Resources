@@ -31,4 +31,14 @@ http://www.opera.com/download
 https://www.torproject.org/  (for surfing the dark web)  
 http://torchbrowser.com/  
 
+### Web Building Tutorials
+
+http://www.w3schools.com  
+
+### Web Organisations
+
+http://www.icann.org (Internet Assigned Names and Numbers)  
+http://www.iso.org  (International Standards Organisation)  
+http://www.w3.org  (World Wide Web Consortium)  
+
 
