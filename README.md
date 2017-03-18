@@ -15,7 +15,7 @@ http://www.sublimetext.com
 
 ### Graphics
 
-- Converters
+- Converters  
 -- http://www.hamstersoft.com  (audio/video/-etc.)  
 - Photos  
 -- http://www.pixlr.com  (different pic effects)  
