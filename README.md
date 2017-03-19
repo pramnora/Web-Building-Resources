@@ -1,9 +1,9 @@
 # Web-Building-Resources
 Web Building Resources: Links/Editors/Graphics/Tips and tricks/Programs/-etc.  
 
-I would say, pretty much like learning any other subject.one of the most important things is knowing where to find/access to the necessary resources; these resources can range from: mags/books/videos/screen shots/slideshows/email lists/-etc.
+Ability to both find/access very important resources is one of the keys towards learning any subject in the whole wide world; these resources can range from: Tutorials/mags/books/videos/screen shots/slideshows/newsgroups/email lists/-etc.
 
-Frankly, because web building is such a varied and wide subject...therefore, there are countless resources to choose from; that means the list below is in no way at all definitive or complete...and, most likely, will be continually updated and improved.
+Frankly, because web building is such a very wide and varied subject...therefore, there are countless resources to choose from...which, in turn, means the list below is by no means definitive nor complete...and, most likely, will need to be continually futher updated and improved.
 
 ## Links...
 
