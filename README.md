@@ -15,8 +15,8 @@ http://www.sublimetext.com
 
 ### Fonts
 
-http://www.googlefonts.com  
-http://googlefonts.com/1-minute-video-tutorial-on-how-to-add-google-fonts/  
+- http://www.googlefonts.com  
+-- http://googlefonts.com/1-minute-video-tutorial-on-how-to-add-google-fonts/  
 http://www.fontawesome.com  
 
 ### Graphics
