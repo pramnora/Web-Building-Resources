@@ -9,6 +9,15 @@ To list ALL web building resources would be a totally impossible task; because t
 
 ## Links...
 
+### CRM/Content Resource Managers  
+- WordPress  
+-- http://www.wordpress.com  (FREE web site/blog)
+-- http://www.wordpress.org  
+- http://www.drupal.org/  
+-- https://www.tutorialspoint.com/drupal/index.asp  
+- http://www.joomla.org/  
+-- http://www.joomla.com  (FREE web site)  
+
 ### Design
 
 https://gravit.io/  
@@ -18,13 +27,6 @@ https://gravit.io/
 http://www.atom.io  
 http://www.notepad-plus-plus.org  
 http://www.sublimetext.com  
-- CRM/Content Resource Managers  
--- WordPress  
---- http://www.wordpress.com  
---- http://www.wordpress.org  
-- http://www.drupal.org/  
--- https://www.tutorialspoint.com/drupal/index.asp  
-- http://www.joomla.org/  
 
 ### Fonts
 
