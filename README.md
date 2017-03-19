@@ -47,6 +47,12 @@ http://www.fontawesome.com
 - Videos  
 -- http://www.techsmith.com  (Camtasia/SnagIt)  
 
+### News
+
+http://www.cnet.com  
+http://www.techspot.com    
+http://www.wired.com  
+
 ### Planning
 
 http://www.wireframe.cc  
@@ -72,7 +78,6 @@ http://www.w3schools.com
 -- http://www.lynda.com  
 -- http://www.skillsology.com  
 -- http://www.skillshare.com  
--- http://www.techspot.com  
 -- http://www.udacity.com  
 -- http://www.udemy.com  
 
