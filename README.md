@@ -60,11 +60,20 @@ http://www.opera.com/download
 https://www.torproject.org/  (for surfing the dark web)  
 http://torchbrowser.com/  
 
-### Web Building Tutorials (general)
+### Web Building Tutorials
 
+- General  
 http://www.freecodecamp.com  
 http://www.tutorialspoint.com  
 http://www.w3schools.com  
+- MOOC's/Massive Open Online Courses    
+-- http://www.alison.com  
+-- http://www.eduonix.com  
+-- http://www.lynda.com  
+-- http://www.skillsology.com  
+-- http://www.skillshare.com  
+-- http://www.udemy.com  
+-- http://www.udacity.com  
 
 ### Web Hosting
 
