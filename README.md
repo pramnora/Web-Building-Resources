@@ -72,8 +72,9 @@ http://www.w3schools.com
 -- http://www.lynda.com  
 -- http://www.skillsology.com  
 -- http://www.skillshare.com  
--- http://www.udemy.com  
+-- http://www.techspot.com  
 -- http://www.udacity.com  
+-- http://www.udemy.com  
 
 ### Web Hosting
 
@@ -84,7 +85,9 @@ http://www.namecheap.com
 ### Web Organisations
 
 http://www.icann.org (Internet Assigned Names and Numbers)  
+http://www.ietf.org (Internet Engineering Task Force)  
 http://www.iso.org  (International Standards Organisation)  
 http://www.w3.org  (World Wide Web Consortium)  
+
 
 
