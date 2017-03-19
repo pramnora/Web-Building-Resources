@@ -16,7 +16,7 @@ https://gravit.io/
 http://www.atom.io  
 http://www.notepad-plus-plus.org  
 http://www.sublimetext.com  
-- CRM/Content Resource Managers
+- CRM/Content Resource Managers  
 -- WordPress  
 --- http://www.wordpress.com  
 --- http://www.wordpress.org  
