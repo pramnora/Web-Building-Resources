@@ -41,12 +41,17 @@ http://www.fontawesome.com
 ### Graphics
 
 - Converters  
--- http://www.hamstersoft.com  (ebook/video/-etc.)  
+-- http://www.hamstersoft.com   
+---http://pdfreader.hamstersoft.com/  
+---http://ziparchiver.hamstersoft.com/  
+---http://mac.ziparchiver.hamstersoft.com/  
+---http://hamstersoft.com/free-video-converter/  
+---http://hamstersoft.com/free-ebook-converter/  
 - Photos  
 -- http://www.pixlr.com  (different pic effects)  
 -- http://www.unsplash.com  (free photos) 
 - Videos  
--- http://www.techsmith.com  (Camtasia/SnagIt)  
+-- http://www.techsmith.com   
 ---https://www.techsmith.com/camtasia.html (Camtasia)  
 ---https://www.techsmith.com/screen-capture.html (SnagIt)  
 ---https://www.techsmith.com/techsmith-relay.html (Relay)  
