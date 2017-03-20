@@ -91,6 +91,7 @@ http://www.w3schools.com
 - MOOC's/Massive Open Online Courses    
 -- http://www.alison.com  
 -- http://www.eduonix.com  
+-- http://www.kadenze.com  
 -- http://www.lynda.com  
 -- http://www.skillsology.com  
 -- http://www.skillshare.com  
