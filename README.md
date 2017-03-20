@@ -28,6 +28,7 @@ https://gravit.io/
 ### Editors
 
 http://www.atom.io  
+http://www.brackets.io  
 http://www.notepad-plus-plus.org  
 http://www.sublimetext.com  
 
