@@ -98,8 +98,8 @@ http://www.namecheap.com
 
 ### Web Organisations
 
-http://www.iana.org (Internet Assigined Numbers Authority)  
-http://www.icann.org (Internet Assigned Names and Numbers)  
+http://www.iana.org (Internet Assigned Numbers Authority)  
+http://www.icann.org (Internet Corporation for Assigned Names and Numbers)    
 http://www.ietf.org (Internet Engineering Task Force)  
 http://www.iso.org  (International Standards Organisation)  
 http://www.w3.org  (World Wide Web Consortium)  
