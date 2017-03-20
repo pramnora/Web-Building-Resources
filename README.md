@@ -55,6 +55,9 @@ http://www.fontawesome.com
 ---https://www.techsmith.com/camtasia.html (Camtasia)  
 ---https://www.techsmith.com/screen-capture.html (SnagIt)  
 ---https://www.techsmith.com/techsmith-relay.html (Relay)  
+--http://www.viddyoze.com    
+--http://www.vimeo.com  
+--http://www.youtube.com  
 
 ### Planning
 
@@ -86,7 +89,8 @@ http://www.w3schools.com
 -- http://www.eduonix.com  
 -- http://www.lynda.com  
 -- http://www.skillsology.com  
--- http://www.skillshare.com  
+-- http://www.skillshare.com
+-- http://www.vtc.com  
 -- http://www.udacity.com  
 -- http://www.udemy.com  
 
