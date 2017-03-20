@@ -55,13 +55,17 @@ http://www.fontawesome.com
 ---https://www.techsmith.com/camtasia.html (Camtasia)  
 ---https://www.techsmith.com/screen-capture.html (SnagIt)  
 ---https://www.techsmith.com/techsmith-relay.html (Relay)  
---http://www.viddyoze.com    
+--http://www.viddyoze.com  (Fast 3D Animations)     
 --http://www.vimeo.com  
 --http://www.youtube.com  
 
 ### Planning
 
 http://www.wireframe.cc  
+
+### Reference
+
+http://www.wikipedia.org  
 
 ### Tech News
 
