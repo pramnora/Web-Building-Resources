@@ -46,6 +46,9 @@ http://www.fontawesome.com
 -- http://www.unsplash.com  (free photos) 
 - Videos  
 -- http://www.techsmith.com  (Camtasia/SnagIt)  
+---https://www.techsmith.com/camtasia.html (Camtasia)  
+---https://www.techsmith.com/screen-capture.html (SnagIt)  
+---https://www.techsmith.com/techsmith-relay.html (Relay)  
 
 ### Planning
 
