@@ -93,7 +93,7 @@ http://www.w3schools.com
 -- http://www.eduonix.com  
 -- http://www.lynda.com  
 -- http://www.skillsology.com  
--- http://www.skillshare.com
+-- http://www.skillshare.com  
 -- http://www.vtc.com  
 -- http://www.udacity.com  
 -- http://www.udemy.com  
