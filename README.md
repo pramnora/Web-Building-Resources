@@ -1,6 +1,8 @@
 # Web-Building-Resources
 Web Building Resources: Links/Editors/Graphics/Tips and tricks/Programs/-etc.  
 
+Document last modifed: WED 14 SEP 2022 15:53 PM GMT
+
 Ability to both find/access very important resources is one of the great big keys towards learning any subject in the whole wide world; and, financially speaking, these resources can range from: FREE/cheap/mid-range expensive/to very expensive.
 
 Let us consider just one form of resource, tutorials; tutorials can be found regarding many different subjects; and, also, can take on many different forms, including: mags/books/videos/cd's/dvd's/screen shots/slideshows/newsgroups/email subscriptions/-etc.
@@ -115,6 +117,6 @@ http://www.w3.org  (World Wide Web Consortium)
 
 ### Other
 
-https://regexr.com/
-https://www.fontawesome.com
+https://regexr.com/  
+https://www.fontawesome.com  
 
