@@ -86,6 +86,10 @@ http://www.cnet.com
 http://www.techspot.com    
 http://www.wired.com  
 
+### Validator
+
+https://validator.w3.org  
+
 ### Web browser software
 
 https://www.google.co.uk/chrome/browser/desktop/index.html  
