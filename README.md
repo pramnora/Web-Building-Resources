@@ -116,4 +116,5 @@ http://www.w3.org  (World Wide Web Consortium)
 ### Other
 
 https://regexr.com/
+https://www.fontawesome.com
 
