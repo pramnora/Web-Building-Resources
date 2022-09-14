@@ -28,7 +28,7 @@ To list ALL web building resources would be a totally impossible task; because t
 - WordPress    
 -- http://www.wordpress.com  (FREE web site/blog)  
 -- http://www.wordpress.org 
-- Netlify
+- Netlify  
 -- https://www.netlify.com  
 -- https://www.netlifycms.com  
 
