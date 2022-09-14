@@ -30,7 +30,7 @@ To list ALL web building resources would be a totally impossible task; because t
 -- http://www.wordpress.org 
 - Netlify  
 -- https://www.netlify.com  
--- https://www.netlifycms.com  
+-- https://www.netlifycms.org  
 
 -----
 
