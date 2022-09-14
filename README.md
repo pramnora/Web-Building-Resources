@@ -3,13 +3,19 @@ Web Building Resources: Links/Editors/Graphics/Tips and tricks/Programs/-etc.
 
 Document last modifed: WED 14 SEP 2022 15:53 PM GMT
 
+-----
+
 Ability to both find/access very important resources is one of the great big keys towards learning any subject in the whole wide world; and, financially speaking, these resources can range from: FREE/cheap/mid-range expensive/to very expensive.
 
 Let us consider just one form of resource, tutorials; tutorials can be found regarding many different subjects; and, also, can take on many different forms, including: mags/books/videos/cd's/dvd's/screen shots/slideshows/newsgroups/email subscriptions/-etc.
 
 To list ALL web building resources would be a totally impossible task; because the art of web building is such a very wide and varied subject; thus, there are quite literally MILLIONS of possible resources to choose from...which, in turn, means that the list below is, indeed, extremely limited; however, I certainly hope to include more and more stuff here, in future.
 
+-----
+
 ## Links...
+
+-----
 
 ### CRM/Content Resource Managers  
 
@@ -22,6 +28,11 @@ To list ALL web building resources would be a totally impossible task; because t
 - WordPress    
 -- http://www.wordpress.com  (FREE web site/blog)  
 -- http://www.wordpress.org 
+- Netlify
+-- https://www.netlify.com  
+-- https://www.netlifycms.com  
+
+-----
 
 ### Design
 
@@ -38,7 +49,7 @@ http://www.sublimetext.com
 
 - http://www.googlefonts.com  
 -- http://googlefonts.com/1-minute-video-tutorial-on-how-to-add-google-fonts/  
-http://www.fontawesome.com  
+- http://www.fontawesome.com  
 
 ### Graphics
 
@@ -118,5 +129,4 @@ http://www.w3.org  (World Wide Web Consortium)
 ### Other
 
 https://regexr.com/  
-https://www.fontawesome.com  
 
